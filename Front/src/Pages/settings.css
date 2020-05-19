@@ -1,0 +1,51 @@
+.cardSettings {
+    margin-bottom: 1.5rem;
+    box-shadow: 0 1px 15px 1px rgba(0, 0, 0, 0.08);
+}
+.cardSettings {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: rgb(230, 55, 28);
+    background-clip: border-box;
+    border-radius: .2rem;
+}
+.card-headerSettings:first-child {
+    border-radius: calc(.2rem - 1px) calc(.2rem - 1px) 0 0;
+}
+.card-headerSettings {
+    border-bottom-width: 1px;
+}
+.card-headerSettings {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    color: inherit;
+    background-color: rgba(153, 32, 14,1);
+    border-bottom: 1px solid #e5e9f2;
+}
+
+.settingsBackColorBlack {
+    background-color: rgba(153, 32, 14,1);
+}
+
+textarea {
+    line-height: 150%;
+    border-radius: 5px;
+    background-color: rgba(153, 32, 14,1);
+    height: 130px;
+    resize: none;
+    width: 100%;
+    color: #000000;
+  }
+
+  .list-group-item.active {
+      background: linear-gradient(rgba(230, 55, 28,1),  rgba(153, 32, 14,1));;
+      border-color: linear-gradient(rgba(230, 55, 28,1),  rgba(153, 32, 14,1));;
+  }
+  .list-group-item:hover {
+    background-color: linear-gradient(rgba(230, 55, 28,1),  rgba(153, 32, 14,1));;
+  }

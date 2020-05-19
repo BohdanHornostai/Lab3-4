@@ -1,0 +1,17 @@
+.reviews {
+    margin-bottom: 40px;
+}
+
+.button-buy button{
+    background-color: #ffffff;
+    color: #000000;
+    border: 2px solid #000000;
+    margin-top: 1em;
+    width: 150px;
+    padding: 8px 0px;
+    font-size: 1em;
+    font-weight: 400px;
+    letter-spacing: 1px;
+    margin-bottom: 0.25em;
+    margin-left: 0.9em;
+  }

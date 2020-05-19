@@ -1,0 +1,8 @@
+.createproductContainer {
+    max-width: 900px;
+    margin: 30px auto 30px;
+    padding: 0 !important;
+    width: 90%;
+    background-color: rgba(153, 32, 14,1);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.10), 0 3px 6px rgba(0,0,0,0.10);
+}
