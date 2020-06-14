@@ -1,0 +1,122 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <footer
+    class="back FooterCentr"
+  >
+    <div
+      class="container grey"
+    >
+      <div
+        class="footer-cols"
+      >
+        <ul>
+          <li>
+            Community
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Our blog
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Last news
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Facebook
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Instagram
+            </a>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            About us
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Contact us
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Usefull links
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Support us
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              F.A.Q.
+            </a>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            Others
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Terms
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Privacy
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Help
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Accessibility
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div
+      class="footer-bottom text-center"
+    >
+      Wanderlance © 2020
+    </div>
+  </footer>
+</DocumentFragment>
+`;

@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="previewComponent cA cAlabel"
+    >
+      <form>
+        <input
+          accept="image/*"
+          class="inputfile"
+          id="file"
+          name="file"
+          type="file"
+        />
+        <label
+          for="file"
+        >
+          Choose a file
+        </label>
+      </form>
+      <button
+        class="submitButton"
+        type="submit"
+      >
+        Upload Image
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

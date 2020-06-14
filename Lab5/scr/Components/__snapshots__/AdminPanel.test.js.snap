@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h2>
+      Admin Panel
+    </h2>
+    <div
+      class="cA"
+    >
+      <button
+        type="submit"
+      >
+        Upload a photo
+      </button>
+      <button
+        type="submit"
+      >
+        Delete this product
+      </button>
+      <button
+        type="submit"
+      >
+        Go to my product
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

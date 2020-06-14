@@ -1,0 +1,238 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="container white border mgtop"
+  >
+    <div
+      class="fir-m"
+    >
+      <figure
+        class="fir-image-figure"
+      >
+        <a
+          class="fir-imageover"
+          href="/userProfile"
+          rel="noopener"
+          target="_blank"
+        >
+          <img
+            class="fir-author-image fir-c"
+            src="https://picsum.photos/200/150/?random"
+          />
+          <div
+            class="fir-imageover-color"
+          />
+          <img
+            class="fir-imageover-image fir-c"
+            src="https://picsum.photos/200/150/?random"
+          />
+        </a>
+        <figcaption>
+          <div
+            class="fig-author-figure-title white-text red"
+          >
+            Author
+          </div>
+          <div
+            class="small grey"
+          >
+            Last seen 10 min ago
+          </div>
+        </figcaption>
+        <div
+          class="iconsContainer"
+        >
+          <a
+            class=""
+            href="/"
+          >
+            <i
+              aria-hidden="true"
+              class="fa fa-envelope whiteIcon"
+            />
+          </a>
+          <a
+            class=""
+            href="/"
+          >
+            <i
+              aria-hidden="true"
+              class="fa fa-link whiteIcon"
+            />
+          </a>
+          <a
+            class=""
+            href="/reportForm"
+          >
+            <i
+              aria-hidden="true"
+              class="fa fa-exclamation-triangle whiteIcon"
+            />
+          </a>
+        </div>
+      </figure>
+    </div>
+    <div
+      class="badges"
+    >
+      <span
+        class="badge badge-info border"
+      >
+        Verified user
+        <i
+          aria-hidden="true"
+          class="fa fa-check whiteIcon"
+        />
+      </span>
+      <span
+        class="badge badge-info border"
+      >
+         Wanderfull seller
+        <i
+          aria-hidden="true"
+          class="fa fa-shopping-cart whiteIcon"
+        />
+      </span>
+    </div>
+    <div
+      class="border fir-m row"
+    />
+    <div
+      class="rating"
+    >
+      <input
+        id="star1"
+        name="rating"
+        type="radio"
+        value="1"
+      />
+      <label
+        for="star1"
+      />
+      <input
+        id="star2"
+        name="rating"
+        type="radio"
+        value="2"
+      />
+      <label
+        for="star2"
+      />
+      <input
+        id="star3"
+        name="rating"
+        type="radio"
+        value="3"
+      />
+      <label
+        for="star3"
+      />
+      <input
+        id="star4"
+        name="rating"
+        type="radio"
+        value="4"
+      />
+      <label
+        for="star4"
+      />
+      <input
+        id="star5"
+        name="rating"
+        type="radio"
+        value="5"
+      />
+      <label
+        for="star5"
+      />
+    </div>
+    <div
+      class="headReview"
+    >
+      <h2>
+        This product is ultra good
+      </h2>
+    </div>
+    <div
+      class="mainText"
+    >
+      <h3>
+        What do you like best?
+      </h3>
+      <p
+        class="white-text"
+      >
+        The best thing about using bootstrap is it saving the modern developer alot of time, its super easy to use and need only simple html knowledge to know how to setup and use it, as a web developer for 6 years bootstrap has helped me making more then 500 projects for customers and still helping me when it comes to web development, bootstrap is super light and has all the features to make your website more beautiful, for example the buttons or inputs or even the alerts look amazing and modern.
+      </p>
+      <h3>
+        What do you dislike?
+      </h3>
+      <p
+        class="white-text"
+      >
+        I think that the designs can be redundant, however, I believe that the websites currently revolve around responsive design, so Bootstrap can be a takeoff tool for beginners.
+      </p>
+      <div
+        class="showMore"
+      >
+        <a
+          aria-controls="collapseExample"
+          aria-expanded="false"
+          class="red mgbottomshowMoreLink"
+          data-toggle="collapse"
+          href="#collapseExample"
+          role="button"
+        >
+          Show more 
+          <i
+            aria-hidden="true"
+            class="fa fa-caret-down red"
+          />
+        </a>
+        <div
+          class="collapse collapseMg"
+          id="collapseExample"
+        >
+          <h3>
+            Recommendations to others considering the product:
+          </h3>
+          <p
+            class="white-text"
+          >
+            Bootstrap provides a fascinating visual design, so receptivity to your websites will not be necessary with this framework. My recommendation is to use it and learn as much as possible to customize templates.
+          </p>
+          <h3>
+            What problems are you solving with the product? What benefits have you realized?
+          </h3>
+          <p
+            class="white-text"
+          >
+            Bootstrap serves as a composition for testing changes on our mobile websites. We can edit from colors, sizes and buttons of the pages easily. In addition, it also allows us to visually test the design of the page so that we can show the supervisors.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="border row"
+    />
+    <div
+      class="btn btn-group cA row"
+    >
+      <button
+        class=""
+        type="submit"
+      >
+        Add comment
+      </button>
+      <button
+        class=""
+        type="submit"
+      >
+        Share
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

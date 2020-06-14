@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <figure
+      class="fir-image-figure"
+    >
+      <a
+        class="fir-imageover"
+        href="/userProfile"
+        rel="noopener"
+        target="_blank"
+      >
+        <img
+          alt="David East - Author"
+          class="fir-author-image fir-clickcircle"
+          src="https://picsum.photos/200/150/?random"
+        />
+        <div
+          class="fir-imageover-color"
+        />
+        <img
+          class="fir-imageover-image fir-clickcircle"
+          src="https://picsum.photos/200/150/?random"
+        />
+      </a>
+      <figcaption>
+        <div
+          class="fig-author-figure-title white-text red"
+        >
+          Author
+        </div>
+        <div
+          class="small grey"
+        >
+          Last seen 10 min ago
+        </div>
+      </figcaption>
+    </figure>
+  </div>
+</DocumentFragment>
+`;

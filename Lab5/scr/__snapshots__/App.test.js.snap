@@ -1,0 +1,1886 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <nav
+      class="navbar-custom sticky-top navbar navbar-expand-md navbar-dark"
+    >
+      <div
+        class="container"
+      >
+        <a
+          class="navbar-brand"
+          href="/"
+        >
+          <img
+            src="Wanderlance.png "
+            width="200"
+          />
+        </a>
+        <button
+          aria-controls="responsive-navbar-nav"
+          aria-label="Toggle navigation"
+          class="navbar-toggler collapsed"
+          type="button"
+        >
+          <span
+            class="navbar-toggler-icon"
+          />
+        </button>
+        <div
+          class="navbar-collapse collapse"
+          id="responsive-navbar-nav"
+        >
+          <div
+            class="mr-auto navbar-nav"
+          >
+            <a
+              class="nav-link"
+              href="/"
+            >
+               Home 
+            </a>
+            <a
+              class="nav-link"
+              href="/sellers"
+            >
+               Sellers 
+            </a>
+            <a
+              class="nav-link"
+              href="/contacts"
+            >
+               Contacts 
+            </a>
+            <a
+              class="nav-link"
+              href="/login"
+            >
+               Login 
+            </a>
+          </div>
+          <div
+            class="cA"
+          >
+            <button
+              type="submit"
+            >
+              Click here to enter your account
+            </button>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <div>
+      <meta
+        charset="UTF-8"
+      />
+      <meta
+        content="width=device-width, initial-scale=1.0"
+        name="viewport"
+      />
+      <meta
+        content="ie=edge"
+        http-equiv="X-UA-Compatible"
+      />
+      <link
+        crossorigin="anonymous"
+        href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
+        integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
+        rel="stylesheet"
+      />
+      <link
+        href="/favicon.ico"
+        rel="shortcut icon"
+        type="image/x-icon"
+      />
+      <link
+        href="css/style.css"
+        rel="stylesheet"
+      />
+      <title>
+        Welcome to myTunes
+      </title>
+      <section
+        class="section back bg-white"
+        id="sellers"
+      >
+        <div
+          class="container col"
+        >
+          <h2
+            class="section-head text-center"
+          >
+            Sellers
+          </h2>
+          <section
+            class="container row col"
+          >
+            <div
+              class="userCardContainer"
+            >
+              <div
+                class="rightGradientAfterFlip"
+              >
+                <div
+                  class="flip"
+                >
+                  <div
+                    class="front"
+                  >
+                    <div
+                      class="mr-grid"
+                    >
+                      <div
+                        class="col1"
+                      >
+                        <h1>
+                          Title
+                        </h1>
+                        <div>
+                          <figure
+                            class="fir-image-figure"
+                          >
+                            <a
+                              class="fir-imageover"
+                              href="/userProfile"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              <img
+                                alt="David East - Author"
+                                class="fir-author-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                              <div
+                                class="fir-imageover-color"
+                              />
+                              <img
+                                class="fir-imageover-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                            </a>
+                            <figcaption>
+                              <div
+                                class="fig-author-figure-title white-text red"
+                              >
+                                Author
+                              </div>
+                              <div
+                                class="small grey"
+                              >
+                                Last seen 10 min ago
+                              </div>
+                            </figcaption>
+                          </figure>
+                        </div>
+                      </div>
+                    </div>
+                    <img
+                      class="userCardImage"
+                      src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/sale_23502_primary_image_wide-796x398.jpg"
+                    />
+                  </div>
+                  <div
+                    class="back text-center"
+                  >
+                    <h2>
+                      User menu
+                    </h2>
+                    <div
+                      class="cA"
+                    >
+                      <p>
+                        If you want to buy this product just please click on the button below
+                      </p>
+                      <button
+                        type="submit"
+                      >
+                        Buy this product
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="text-card-cont"
+                >
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1 "
+                    >
+                      <p
+                        class="userCardDescription module"
+                      >
+                        Information
+                      </p>
+                    </div>
+                  </div>
+                  <div />
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1"
+                    >
+                      <p
+                        class="userCardReviews"
+                      >
+                        0 reviews
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class=""
+                    />
+                    <div
+                      class="priceSection"
+                    >
+                      <h6>
+                        00000
+                        <i
+                          class="material-icons"
+                        >
+                           $
+                        </i>
+                      </h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="userCardContainer"
+            >
+              <div
+                class="rightGradientAfterFlip"
+              >
+                <div
+                  class="flip"
+                >
+                  <div
+                    class="front"
+                  >
+                    <div
+                      class="mr-grid"
+                    >
+                      <div
+                        class="col1"
+                      >
+                        <h1>
+                          Title
+                        </h1>
+                        <div>
+                          <figure
+                            class="fir-image-figure"
+                          >
+                            <a
+                              class="fir-imageover"
+                              href="/userProfile"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              <img
+                                alt="David East - Author"
+                                class="fir-author-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                              <div
+                                class="fir-imageover-color"
+                              />
+                              <img
+                                class="fir-imageover-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                            </a>
+                            <figcaption>
+                              <div
+                                class="fig-author-figure-title white-text red"
+                              >
+                                Author
+                              </div>
+                              <div
+                                class="small grey"
+                              >
+                                Last seen 10 min ago
+                              </div>
+                            </figcaption>
+                          </figure>
+                        </div>
+                      </div>
+                    </div>
+                    <img
+                      class="userCardImage"
+                      src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/sale_23502_primary_image_wide-796x398.jpg"
+                    />
+                  </div>
+                  <div
+                    class="back text-center"
+                  >
+                    <h2>
+                      User menu
+                    </h2>
+                    <div
+                      class="cA"
+                    >
+                      <p>
+                        If you want to buy this product just please click on the button below
+                      </p>
+                      <button
+                        type="submit"
+                      >
+                        Buy this product
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="text-card-cont"
+                >
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1 "
+                    >
+                      <p
+                        class="userCardDescription module"
+                      >
+                        Information
+                      </p>
+                    </div>
+                  </div>
+                  <div />
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1"
+                    >
+                      <p
+                        class="userCardReviews"
+                      >
+                        0 reviews
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class=""
+                    />
+                    <div
+                      class="priceSection"
+                    >
+                      <h6>
+                        00000
+                        <i
+                          class="material-icons"
+                        >
+                           $
+                        </i>
+                      </h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="userCardContainer"
+            >
+              <div
+                class="rightGradientAfterFlip"
+              >
+                <div
+                  class="flip"
+                >
+                  <div
+                    class="front"
+                  >
+                    <div
+                      class="mr-grid"
+                    >
+                      <div
+                        class="col1"
+                      >
+                        <h1>
+                          Title
+                        </h1>
+                        <div>
+                          <figure
+                            class="fir-image-figure"
+                          >
+                            <a
+                              class="fir-imageover"
+                              href="/userProfile"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              <img
+                                alt="David East - Author"
+                                class="fir-author-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                              <div
+                                class="fir-imageover-color"
+                              />
+                              <img
+                                class="fir-imageover-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                            </a>
+                            <figcaption>
+                              <div
+                                class="fig-author-figure-title white-text red"
+                              >
+                                Author
+                              </div>
+                              <div
+                                class="small grey"
+                              >
+                                Last seen 10 min ago
+                              </div>
+                            </figcaption>
+                          </figure>
+                        </div>
+                      </div>
+                    </div>
+                    <img
+                      class="userCardImage"
+                      src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/sale_23502_primary_image_wide-796x398.jpg"
+                    />
+                  </div>
+                  <div
+                    class="back text-center"
+                  >
+                    <h2>
+                      User menu
+                    </h2>
+                    <div
+                      class="cA"
+                    >
+                      <p>
+                        If you want to buy this product just please click on the button below
+                      </p>
+                      <button
+                        type="submit"
+                      >
+                        Buy this product
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="text-card-cont"
+                >
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1 "
+                    >
+                      <p
+                        class="userCardDescription module"
+                      >
+                        Information
+                      </p>
+                    </div>
+                  </div>
+                  <div />
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1"
+                    >
+                      <p
+                        class="userCardReviews"
+                      >
+                        0 reviews
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class=""
+                    />
+                    <div
+                      class="priceSection"
+                    >
+                      <h6>
+                        00000
+                        <i
+                          class="material-icons"
+                        >
+                           $
+                        </i>
+                      </h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="userCardContainer"
+            >
+              <div
+                class="rightGradientAfterFlip"
+              >
+                <div
+                  class="flip"
+                >
+                  <div
+                    class="front"
+                  >
+                    <div
+                      class="mr-grid"
+                    >
+                      <div
+                        class="col1"
+                      >
+                        <h1>
+                          Title
+                        </h1>
+                        <div>
+                          <figure
+                            class="fir-image-figure"
+                          >
+                            <a
+                              class="fir-imageover"
+                              href="/userProfile"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              <img
+                                alt="David East - Author"
+                                class="fir-author-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                              <div
+                                class="fir-imageover-color"
+                              />
+                              <img
+                                class="fir-imageover-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                            </a>
+                            <figcaption>
+                              <div
+                                class="fig-author-figure-title white-text red"
+                              >
+                                Author
+                              </div>
+                              <div
+                                class="small grey"
+                              >
+                                Last seen 10 min ago
+                              </div>
+                            </figcaption>
+                          </figure>
+                        </div>
+                      </div>
+                    </div>
+                    <img
+                      class="userCardImage"
+                      src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/sale_23502_primary_image_wide-796x398.jpg"
+                    />
+                  </div>
+                  <div
+                    class="back text-center"
+                  >
+                    <h2>
+                      User menu
+                    </h2>
+                    <div
+                      class="cA"
+                    >
+                      <p>
+                        If you want to buy this product just please click on the button below
+                      </p>
+                      <button
+                        type="submit"
+                      >
+                        Buy this product
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="text-card-cont"
+                >
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1 "
+                    >
+                      <p
+                        class="userCardDescription module"
+                      >
+                        Information
+                      </p>
+                    </div>
+                  </div>
+                  <div />
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1"
+                    >
+                      <p
+                        class="userCardReviews"
+                      >
+                        0 reviews
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class=""
+                    />
+                    <div
+                      class="priceSection"
+                    >
+                      <h6>
+                        00000
+                        <i
+                          class="material-icons"
+                        >
+                           $
+                        </i>
+                      </h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="userCardContainer"
+            >
+              <div
+                class="rightGradientAfterFlip"
+              >
+                <div
+                  class="flip"
+                >
+                  <div
+                    class="front"
+                  >
+                    <div
+                      class="mr-grid"
+                    >
+                      <div
+                        class="col1"
+                      >
+                        <h1>
+                          Title
+                        </h1>
+                        <div>
+                          <figure
+                            class="fir-image-figure"
+                          >
+                            <a
+                              class="fir-imageover"
+                              href="/userProfile"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              <img
+                                alt="David East - Author"
+                                class="fir-author-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                              <div
+                                class="fir-imageover-color"
+                              />
+                              <img
+                                class="fir-imageover-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                            </a>
+                            <figcaption>
+                              <div
+                                class="fig-author-figure-title white-text red"
+                              >
+                                Author
+                              </div>
+                              <div
+                                class="small grey"
+                              >
+                                Last seen 10 min ago
+                              </div>
+                            </figcaption>
+                          </figure>
+                        </div>
+                      </div>
+                    </div>
+                    <img
+                      class="userCardImage"
+                      src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/sale_23502_primary_image_wide-796x398.jpg"
+                    />
+                  </div>
+                  <div
+                    class="back text-center"
+                  >
+                    <h2>
+                      User menu
+                    </h2>
+                    <div
+                      class="cA"
+                    >
+                      <p>
+                        If you want to buy this product just please click on the button below
+                      </p>
+                      <button
+                        type="submit"
+                      >
+                        Buy this product
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="text-card-cont"
+                >
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1 "
+                    >
+                      <p
+                        class="userCardDescription module"
+                      >
+                        Information
+                      </p>
+                    </div>
+                  </div>
+                  <div />
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1"
+                    >
+                      <p
+                        class="userCardReviews"
+                      >
+                        0 reviews
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class=""
+                    />
+                    <div
+                      class="priceSection"
+                    >
+                      <h6>
+                        00000
+                        <i
+                          class="material-icons"
+                        >
+                           $
+                        </i>
+                      </h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="userCardContainer"
+            >
+              <div
+                class="rightGradientAfterFlip"
+              >
+                <div
+                  class="flip"
+                >
+                  <div
+                    class="front"
+                  >
+                    <div
+                      class="mr-grid"
+                    >
+                      <div
+                        class="col1"
+                      >
+                        <h1>
+                          Title
+                        </h1>
+                        <div>
+                          <figure
+                            class="fir-image-figure"
+                          >
+                            <a
+                              class="fir-imageover"
+                              href="/userProfile"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              <img
+                                alt="David East - Author"
+                                class="fir-author-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                              <div
+                                class="fir-imageover-color"
+                              />
+                              <img
+                                class="fir-imageover-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                            </a>
+                            <figcaption>
+                              <div
+                                class="fig-author-figure-title white-text red"
+                              >
+                                Author
+                              </div>
+                              <div
+                                class="small grey"
+                              >
+                                Last seen 10 min ago
+                              </div>
+                            </figcaption>
+                          </figure>
+                        </div>
+                      </div>
+                    </div>
+                    <img
+                      class="userCardImage"
+                      src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/sale_23502_primary_image_wide-796x398.jpg"
+                    />
+                  </div>
+                  <div
+                    class="back text-center"
+                  >
+                    <h2>
+                      User menu
+                    </h2>
+                    <div
+                      class="cA"
+                    >
+                      <p>
+                        If you want to buy this product just please click on the button below
+                      </p>
+                      <button
+                        type="submit"
+                      >
+                        Buy this product
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="text-card-cont"
+                >
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1 "
+                    >
+                      <p
+                        class="userCardDescription module"
+                      >
+                        Information
+                      </p>
+                    </div>
+                  </div>
+                  <div />
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1"
+                    >
+                      <p
+                        class="userCardReviews"
+                      >
+                        0 reviews
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class=""
+                    />
+                    <div
+                      class="priceSection"
+                    >
+                      <h6>
+                        00000
+                        <i
+                          class="material-icons"
+                        >
+                           $
+                        </i>
+                      </h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="userCardContainer"
+            >
+              <div
+                class="rightGradientAfterFlip"
+              >
+                <div
+                  class="flip"
+                >
+                  <div
+                    class="front"
+                  >
+                    <div
+                      class="mr-grid"
+                    >
+                      <div
+                        class="col1"
+                      >
+                        <h1>
+                          Title
+                        </h1>
+                        <div>
+                          <figure
+                            class="fir-image-figure"
+                          >
+                            <a
+                              class="fir-imageover"
+                              href="/userProfile"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              <img
+                                alt="David East - Author"
+                                class="fir-author-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                              <div
+                                class="fir-imageover-color"
+                              />
+                              <img
+                                class="fir-imageover-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                            </a>
+                            <figcaption>
+                              <div
+                                class="fig-author-figure-title white-text red"
+                              >
+                                Author
+                              </div>
+                              <div
+                                class="small grey"
+                              >
+                                Last seen 10 min ago
+                              </div>
+                            </figcaption>
+                          </figure>
+                        </div>
+                      </div>
+                    </div>
+                    <img
+                      class="userCardImage"
+                      src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/sale_23502_primary_image_wide-796x398.jpg"
+                    />
+                  </div>
+                  <div
+                    class="back text-center"
+                  >
+                    <h2>
+                      User menu
+                    </h2>
+                    <div
+                      class="cA"
+                    >
+                      <p>
+                        If you want to buy this product just please click on the button below
+                      </p>
+                      <button
+                        type="submit"
+                      >
+                        Buy this product
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="text-card-cont"
+                >
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1 "
+                    >
+                      <p
+                        class="userCardDescription module"
+                      >
+                        Information
+                      </p>
+                    </div>
+                  </div>
+                  <div />
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1"
+                    >
+                      <p
+                        class="userCardReviews"
+                      >
+                        0 reviews
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class=""
+                    />
+                    <div
+                      class="priceSection"
+                    >
+                      <h6>
+                        00000
+                        <i
+                          class="material-icons"
+                        >
+                           $
+                        </i>
+                      </h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="userCardContainer"
+            >
+              <div
+                class="rightGradientAfterFlip"
+              >
+                <div
+                  class="flip"
+                >
+                  <div
+                    class="front"
+                  >
+                    <div
+                      class="mr-grid"
+                    >
+                      <div
+                        class="col1"
+                      >
+                        <h1>
+                          Title
+                        </h1>
+                        <div>
+                          <figure
+                            class="fir-image-figure"
+                          >
+                            <a
+                              class="fir-imageover"
+                              href="/userProfile"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              <img
+                                alt="David East - Author"
+                                class="fir-author-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                              <div
+                                class="fir-imageover-color"
+                              />
+                              <img
+                                class="fir-imageover-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                            </a>
+                            <figcaption>
+                              <div
+                                class="fig-author-figure-title white-text red"
+                              >
+                                Author
+                              </div>
+                              <div
+                                class="small grey"
+                              >
+                                Last seen 10 min ago
+                              </div>
+                            </figcaption>
+                          </figure>
+                        </div>
+                      </div>
+                    </div>
+                    <img
+                      class="userCardImage"
+                      src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/sale_23502_primary_image_wide-796x398.jpg"
+                    />
+                  </div>
+                  <div
+                    class="back text-center"
+                  >
+                    <h2>
+                      User menu
+                    </h2>
+                    <div
+                      class="cA"
+                    >
+                      <p>
+                        If you want to buy this product just please click on the button below
+                      </p>
+                      <button
+                        type="submit"
+                      >
+                        Buy this product
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="text-card-cont"
+                >
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1 "
+                    >
+                      <p
+                        class="userCardDescription module"
+                      >
+                        Information
+                      </p>
+                    </div>
+                  </div>
+                  <div />
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1"
+                    >
+                      <p
+                        class="userCardReviews"
+                      >
+                        0 reviews
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class=""
+                    />
+                    <div
+                      class="priceSection"
+                    >
+                      <h6>
+                        00000
+                        <i
+                          class="material-icons"
+                        >
+                           $
+                        </i>
+                      </h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="userCardContainer"
+            >
+              <div
+                class="rightGradientAfterFlip"
+              >
+                <div
+                  class="flip"
+                >
+                  <div
+                    class="front"
+                  >
+                    <div
+                      class="mr-grid"
+                    >
+                      <div
+                        class="col1"
+                      >
+                        <h1>
+                          Title
+                        </h1>
+                        <div>
+                          <figure
+                            class="fir-image-figure"
+                          >
+                            <a
+                              class="fir-imageover"
+                              href="/userProfile"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              <img
+                                alt="David East - Author"
+                                class="fir-author-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                              <div
+                                class="fir-imageover-color"
+                              />
+                              <img
+                                class="fir-imageover-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                            </a>
+                            <figcaption>
+                              <div
+                                class="fig-author-figure-title white-text red"
+                              >
+                                Author
+                              </div>
+                              <div
+                                class="small grey"
+                              >
+                                Last seen 10 min ago
+                              </div>
+                            </figcaption>
+                          </figure>
+                        </div>
+                      </div>
+                    </div>
+                    <img
+                      class="userCardImage"
+                      src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/sale_23502_primary_image_wide-796x398.jpg"
+                    />
+                  </div>
+                  <div
+                    class="back text-center"
+                  >
+                    <h2>
+                      User menu
+                    </h2>
+                    <div
+                      class="cA"
+                    >
+                      <p>
+                        If you want to buy this product just please click on the button below
+                      </p>
+                      <button
+                        type="submit"
+                      >
+                        Buy this product
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="text-card-cont"
+                >
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1 "
+                    >
+                      <p
+                        class="userCardDescription module"
+                      >
+                        Information
+                      </p>
+                    </div>
+                  </div>
+                  <div />
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1"
+                    >
+                      <p
+                        class="userCardReviews"
+                      >
+                        0 reviews
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class=""
+                    />
+                    <div
+                      class="priceSection"
+                    >
+                      <h6>
+                        00000
+                        <i
+                          class="material-icons"
+                        >
+                           $
+                        </i>
+                      </h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="userCardContainer"
+            >
+              <div
+                class="rightGradientAfterFlip"
+              >
+                <div
+                  class="flip"
+                >
+                  <div
+                    class="front"
+                  >
+                    <div
+                      class="mr-grid"
+                    >
+                      <div
+                        class="col1"
+                      >
+                        <h1>
+                          Title
+                        </h1>
+                        <div>
+                          <figure
+                            class="fir-image-figure"
+                          >
+                            <a
+                              class="fir-imageover"
+                              href="/userProfile"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              <img
+                                alt="David East - Author"
+                                class="fir-author-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                              <div
+                                class="fir-imageover-color"
+                              />
+                              <img
+                                class="fir-imageover-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                            </a>
+                            <figcaption>
+                              <div
+                                class="fig-author-figure-title white-text red"
+                              >
+                                Author
+                              </div>
+                              <div
+                                class="small grey"
+                              >
+                                Last seen 10 min ago
+                              </div>
+                            </figcaption>
+                          </figure>
+                        </div>
+                      </div>
+                    </div>
+                    <img
+                      class="userCardImage"
+                      src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/sale_23502_primary_image_wide-796x398.jpg"
+                    />
+                  </div>
+                  <div
+                    class="back text-center"
+                  >
+                    <h2>
+                      User menu
+                    </h2>
+                    <div
+                      class="cA"
+                    >
+                      <p>
+                        If you want to buy this product just please click on the button below
+                      </p>
+                      <button
+                        type="submit"
+                      >
+                        Buy this product
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="text-card-cont"
+                >
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1 "
+                    >
+                      <p
+                        class="userCardDescription module"
+                      >
+                        Information
+                      </p>
+                    </div>
+                  </div>
+                  <div />
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1"
+                    >
+                      <p
+                        class="userCardReviews"
+                      >
+                        0 reviews
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class=""
+                    />
+                    <div
+                      class="priceSection"
+                    >
+                      <h6>
+                        00000
+                        <i
+                          class="material-icons"
+                        >
+                           $
+                        </i>
+                      </h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="userCardContainer"
+            >
+              <div
+                class="rightGradientAfterFlip"
+              >
+                <div
+                  class="flip"
+                >
+                  <div
+                    class="front"
+                  >
+                    <div
+                      class="mr-grid"
+                    >
+                      <div
+                        class="col1"
+                      >
+                        <h1>
+                          Title
+                        </h1>
+                        <div>
+                          <figure
+                            class="fir-image-figure"
+                          >
+                            <a
+                              class="fir-imageover"
+                              href="/userProfile"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              <img
+                                alt="David East - Author"
+                                class="fir-author-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                              <div
+                                class="fir-imageover-color"
+                              />
+                              <img
+                                class="fir-imageover-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                            </a>
+                            <figcaption>
+                              <div
+                                class="fig-author-figure-title white-text red"
+                              >
+                                Author
+                              </div>
+                              <div
+                                class="small grey"
+                              >
+                                Last seen 10 min ago
+                              </div>
+                            </figcaption>
+                          </figure>
+                        </div>
+                      </div>
+                    </div>
+                    <img
+                      class="userCardImage"
+                      src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/sale_23502_primary_image_wide-796x398.jpg"
+                    />
+                  </div>
+                  <div
+                    class="back text-center"
+                  >
+                    <h2>
+                      User menu
+                    </h2>
+                    <div
+                      class="cA"
+                    >
+                      <p>
+                        If you want to buy this product just please click on the button below
+                      </p>
+                      <button
+                        type="submit"
+                      >
+                        Buy this product
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="text-card-cont"
+                >
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1 "
+                    >
+                      <p
+                        class="userCardDescription module"
+                      >
+                        Information
+                      </p>
+                    </div>
+                  </div>
+                  <div />
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1"
+                    >
+                      <p
+                        class="userCardReviews"
+                      >
+                        0 reviews
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class=""
+                    />
+                    <div
+                      class="priceSection"
+                    >
+                      <h6>
+                        00000
+                        <i
+                          class="material-icons"
+                        >
+                           $
+                        </i>
+                      </h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="userCardContainer"
+            >
+              <div
+                class="rightGradientAfterFlip"
+              >
+                <div
+                  class="flip"
+                >
+                  <div
+                    class="front"
+                  >
+                    <div
+                      class="mr-grid"
+                    >
+                      <div
+                        class="col1"
+                      >
+                        <h1>
+                          Title
+                        </h1>
+                        <div>
+                          <figure
+                            class="fir-image-figure"
+                          >
+                            <a
+                              class="fir-imageover"
+                              href="/userProfile"
+                              rel="noopener"
+                              target="_blank"
+                            >
+                              <img
+                                alt="David East - Author"
+                                class="fir-author-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                              <div
+                                class="fir-imageover-color"
+                              />
+                              <img
+                                class="fir-imageover-image fir-clickcircle"
+                                src="https://picsum.photos/200/150/?random"
+                              />
+                            </a>
+                            <figcaption>
+                              <div
+                                class="fig-author-figure-title white-text red"
+                              >
+                                Author
+                              </div>
+                              <div
+                                class="small grey"
+                              >
+                                Last seen 10 min ago
+                              </div>
+                            </figcaption>
+                          </figure>
+                        </div>
+                      </div>
+                    </div>
+                    <img
+                      class="userCardImage"
+                      src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/sale_23502_primary_image_wide-796x398.jpg"
+                    />
+                  </div>
+                  <div
+                    class="back text-center"
+                  >
+                    <h2>
+                      User menu
+                    </h2>
+                    <div
+                      class="cA"
+                    >
+                      <p>
+                        If you want to buy this product just please click on the button below
+                      </p>
+                      <button
+                        type="submit"
+                      >
+                        Buy this product
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="text-card-cont"
+                >
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1 "
+                    >
+                      <p
+                        class="userCardDescription module"
+                      >
+                        Information
+                      </p>
+                    </div>
+                  </div>
+                  <div />
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class="col1"
+                    >
+                      <p
+                        class="userCardReviews"
+                      >
+                        0 reviews
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="mr-grid"
+                  >
+                    <div
+                      class=""
+                    />
+                    <div
+                      class="priceSection"
+                    >
+                      <h6>
+                        00000
+                        <i
+                          class="material-icons"
+                        >
+                           $
+                        </i>
+                      </h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+      </section>
+      <footer
+        class="back FooterCentr"
+      >
+        <div
+          class="container grey"
+        >
+          <div
+            class="footer-cols"
+          >
+            <ul>
+              <li>
+                Community
+              </li>
+              <li>
+                <a
+                  href="#"
+                >
+                  Our blog
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#"
+                >
+                  Last news
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#"
+                >
+                  Facebook
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#"
+                >
+                  Instagram
+                </a>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                About us
+              </li>
+              <li>
+                <a
+                  href="#"
+                >
+                  Contact us
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#"
+                >
+                  Usefull links
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#"
+                >
+                  Support us
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#"
+                >
+                  F.A.Q.
+                </a>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                Others
+              </li>
+              <li>
+                <a
+                  href="#"
+                >
+                  Terms
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#"
+                >
+                  Privacy
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#"
+                >
+                  Help
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#"
+                >
+                  Accessibility
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="footer-bottom text-center"
+        >
+          Wanderlance © 2020
+        </div>
+      </footer>
+    </div>
+  </div>
+</DocumentFragment>
+`;

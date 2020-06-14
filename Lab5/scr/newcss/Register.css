@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Caption');
+.container {
+    padding: 16px;
+  }
+  
+
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+  }
+  .registerbtn {
+    background-color:rgb(230, 55, 28);
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+
+
+

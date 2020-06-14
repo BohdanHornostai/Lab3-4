@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="content"
+    >
+      <div
+        class="card"
+      >
+        <div
+          class="icon"
+        >
+          <i
+            class="material-icons md-36"
+          >
+            attach_money
+          </i>
+        </div>
+        <p
+          class="title"
+        >
+          Sell
+        </p>
+        <a
+          class="text"
+          href="#"
+        >
+          Make your own product
+        </a>
+      </div>
+      <div
+        class="card"
+      >
+        <div
+          class="icon"
+        >
+          <i
+            class="material-icons md-36"
+          >
+            storefront
+          </i>
+        </div>
+        <p
+          class="title"
+        >
+          Buy
+        </p>
+        <a
+          class="text"
+          href="/sellers"
+        >
+          Find any product
+        </a>
+      </div>
+      <div
+        class="card"
+      >
+        <div
+          class="icon"
+        >
+          <i
+            class="material-icons md-36"
+          >
+            whatshot
+          </i>
+        </div>
+        <p
+          class="title"
+        >
+          Create
+        </p>
+        <a
+          class="text"
+          href="#"
+        >
+          Become the top seller
+        </a>
+      </div>
+      <div
+        class="card"
+      >
+        <div
+          class="icon"
+        >
+          <i
+            class="material-icons md-36"
+          >
+            explore
+          </i>
+        </div>
+        <p
+          class="title"
+        >
+          Explore
+        </p>
+        <a
+          class="text"
+          href="/sellers"
+        >
+          Explore the sea of products
+        </a>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

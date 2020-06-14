@@ -1,0 +1,140 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render an icon 1`] = `ShallowWrapper {}`;
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="userCardContainer"
+  >
+    <div
+      class="rightGradientAfterFlip"
+    >
+      <div
+        class="flip"
+      >
+        <div
+          class="front"
+        >
+          <div
+            class="mr-grid"
+          >
+            <div
+              class="col1"
+            >
+              <h1 />
+              <div>
+                <figure
+                  class="fir-image-figure"
+                >
+                  <a
+                    class="fir-imageover"
+                    href="/userProfile"
+                    rel="noopener"
+                    target="_blank"
+                  >
+                    <img
+                      alt="David East - Author"
+                      class="fir-author-image fir-clickcircle"
+                      src="https://picsum.photos/200/150/?random"
+                    />
+                    <div
+                      class="fir-imageover-color"
+                    />
+                    <img
+                      class="fir-imageover-image fir-clickcircle"
+                      src="https://picsum.photos/200/150/?random"
+                    />
+                  </a>
+                  <figcaption>
+                    <div
+                      class="fig-author-figure-title white-text red"
+                    >
+                      Author
+                    </div>
+                    <div
+                      class="small grey"
+                    >
+                      Last seen 10 min ago
+                    </div>
+                  </figcaption>
+                </figure>
+              </div>
+            </div>
+          </div>
+          <img
+            class="userCardImage"
+            src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/sale_23502_primary_image_wide-796x398.jpg"
+          />
+        </div>
+        <div
+          class="back text-center"
+        >
+          <h2>
+            User menu
+          </h2>
+          <div
+            class="cA"
+          >
+            <p>
+              If you want to buy this product just please click on the button below
+            </p>
+            <button
+              type="submit"
+            >
+              Buy this product
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="text-card-cont"
+      >
+        <div
+          class="mr-grid"
+        >
+          <div
+            class="col1 "
+          >
+            <p
+              class="userCardDescription module"
+            />
+          </div>
+        </div>
+        <div />
+        <div
+          class="mr-grid"
+        >
+          <div
+            class="col1"
+          >
+            <p
+              class="userCardReviews"
+            >
+              0 reviews
+            </p>
+          </div>
+        </div>
+        <div
+          class="mr-grid"
+        >
+          <div
+            class=""
+          />
+          <div
+            class="priceSection"
+          >
+            <h6>
+              <i
+                class="material-icons"
+              >
+                 $
+              </i>
+            </h6>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
