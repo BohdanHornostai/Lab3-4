@@ -1,0 +1,110 @@
+.list-group-item{
+  background-color: rgba(153, 32, 14,1);
+  border: 1px solid #343a40;
+  box-shadow: 5px 5px 5px 5px black;
+}
+
+.mgmyorders{
+  margin: 20px;
+}
+
+.listitemwidth{
+  width: 100%;
+}
+
+.productNameOfOrder {
+  font-size: 20px;
+  color: #000000;
+}
+
+.moneySize {
+    font-size: 30px;
+    color:rgb(0, 100, 0);
+    text-shadow: 1px 1px 4px black;
+}
+
+.orderStatus {
+    margin-left: 5%;
+    background-color: green;
+    border-radius: 10px;
+    box-shadow: 0px 0px 1px 1px black;
+}
+
+.orderStatusNotDone {
+  margin-left: 5%;
+  background-color: #ce0101;
+  color:black;
+  border-radius: 10px;
+  color: gray;
+  box-shadow: 0px 0px 1px 1px black;
+}
+
+
+.button-order-margin {
+    margin: 10px;
+    margin-left:10%;
+}
+
+.flex {
+  float: left;
+}
+
+.clientOrderContainer {
+  max-width: 900px;
+  margin: 30px auto 30px;
+  padding: 0 !important;
+  width: 90%;
+  background-color: rgba(153, 32, 14,1);
+  box-shadow: 0 3px 6px rgba(0,0,0,0.10), 0 3px 6px rgba(0,0,0,0.10);
+}
+
+
+
+
+@media screen and (max-width: 980px)and (min-width: 760px) {
+  .clientOrderContainer  {
+    width: 100%;
+  }
+  .flex {
+    float: right;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .list-group-item{
+    width: 29%;
+    position: relative;
+    display: inline-block;
+  }
+}
+
+  @media screen and (max-width: 900px) {
+    .list-group-item{
+      width: 99%;
+      box-shadow: 5px 5px 10px 4px black;
+    }
+}
+
+@media screen and (max-width: 600px) {
+  .list-group-item{
+    margin: 0px;
+  }
+  .button-order-margin {
+    margin: 0px;
+    margin-left: 0%;
+}
+}
+
+@media screen and (max-width: 1300px) and (min-width: 1126px) {
+  .list-group-item{
+    width: 46%;
+    box-shadow: 5px 5px 10px 4px black;
+  }
+}
+
+@media screen and (max-width: 1125px) and (min-width: 900px) {
+  .list-group-item{
+    width: 43%;
+    box-shadow: 5px 5px 10px 4px black;
+  }
+}
